@@ -1,0 +1,95 @@
+body{
+   
+    background-image: linear-gradient(#F3D184, #E5B3B6,#DA9FD6,#D591C4,#DC9A92,#E9B368);
+}
+.box1{
+    width: 900%;
+    height: 790px;
+    background-color: #F3D184;
+    margin-left: 10px;
+    border-bottom-left-radius: 40px;
+    /* border-bottom-right-radius: 40px; */
+    /* border-top-right-radius: 40px; */
+    border-top-left-radius: 40px;
+}
+.form{
+    display: flex;
+    justify-content: space-around;
+    margin:  100px; 
+    
+    }
+    .box2{
+        width: 700%;
+        height: 790px;
+        background-color:#f5f2eb;
+        margin-right: 495px;
+        /* border-bottom-left-radius: 40px; */
+        border-bottom-right-radius: 40px;
+        border-top-right-radius: 40px;
+        /* border-top-left-radius: 40px; */
+    }
+    .h2{
+        left: 2%;
+    }
+    .yyy{
+        margin-left: 7%;
+    }
+    .ttt{
+        margin-left: 7%;  
+    }
+    .uuu{
+        margin-top: 12%;
+        margin-left: 2%;
+    }
+    .mmm{
+        margin-left: 82%;
+    }
+
+    img{
+        width: 600px;
+        height: 550px;
+        margin-left:8%;
+        margin-bottom: -75px;
+    }
+    .email{
+        position:relative;
+        left: 2%;
+        /* font-size: large; */
+        bottom: -30px;
+    }
+    .text3{
+        position: relative;
+        left: 25%;
+        width: 270px;
+    }
+    .Username{
+        position: relative;
+        /* left: 30px; */
+        bottom: 13px;
+        left: 2%;
+        /* font-size: large; */
+    
+    }
+    .text2{
+        position: relative;
+        bottom: 2px;
+        width: 270px;
+        margin-left: 12%;
+        /* left: 30px; */
+        
+    }
+    .psw{
+        position: relative;
+        /* font-size: large; */
+        left: 2%;
+        bottom: -30px;
+    }
+    .text4{
+        position: relative;
+        left: 130px;
+        width: 270px;
+    }
+    input{
+        font-size: 30px;
+    }
+
