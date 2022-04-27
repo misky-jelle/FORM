@@ -31,18 +31,20 @@ body{
     .h2{
         left: 2%;
     }
-    .yyy{
+    .discover{
         margin-left: 7%;
     }
-    .ttt{
+    .head{
         margin-left: 7%;  
     }
-    .uuu{
+    .art{
         margin-top: 12%;
-        margin-left: 2%;
+        margin-left: 7%;
+        font-size: 30px;
     }
-    .mmm{
+    .index{
         margin-left: 82%;
+        font-size: 20px;
     }
 
     img{
@@ -81,8 +83,9 @@ body{
     .psw{
         position: relative;
         /* font-size: large; */
-        left: 2%;
+        left: 20px;
         bottom: -30px;
+        font-size: 20px;
     }
     .text4{
         position: relative;
@@ -91,5 +94,12 @@ body{
     }
     input{
         font-size: 30px;
+    }
+    .forgot{
+        position: relative;
+        /* font-size: large; */
+        left: 20px;
+        bottom: -30px;
+        font-size: 35px;
     }
 
